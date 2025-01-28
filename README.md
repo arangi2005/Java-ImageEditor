@@ -1,5 +1,5 @@
 Java Image Editor
-This Java-based Image Editor allows users to perform various image processing operations through a graphical user interface (GUI). Developed using Java Swing, it provides a user-friendly platform for editing images with multiple functionalities.
+This Java-based Image Editor allows users to perform various image processing operations through a graphical user interface (GUI). Developed using Java, it provides a user-friendly platform for editing images with multiple functionalities.
 
 Features
 Open and Save Images: Load images from your system and save the edited versions.
